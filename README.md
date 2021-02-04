@@ -3,7 +3,7 @@ A deep learning model for predicting power consumption. This is regression probl
 
 ## Code is available in .ipynb and .py files
 
-## Detailed with comments. 
+### Detailed with comments. 
 
 ### Regression Score : 0.911
 
