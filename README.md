@@ -3,7 +3,11 @@ A deep learning model for predicting power consumption. This is regression probl
 
 ## Code is available in .ipynb and .py files
 
-## Detailed with comments.
+## Detailed with comments. 
+
+### Regression Score : 0.911
+
+### Mean_square_error = 24.564
 
 
-#### Tensorflow, Keras
+#### Tensorflow, Keras, sklearn, pandas, numpy
